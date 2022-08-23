@@ -17,10 +17,13 @@ To install the map in your environment, just follow the steps below:
 1. Make a backup of your CE root directory;
 2. Create a folder in CE root directory called `LEVEL140`;
 3. Copy the content of the folder `LEVEL128` to the new folder created;
-4. Donwload the file `World.dat` from this repository and paste in the `LEVEL140` folder (replace it if already there is one file with the same name);
-5. Start the Codename Eagle;
-6. Go to Multiplayer and select the map `No Man's Land`;
-7. Play!
+4. Download the file `World.dat` from this repository and paste in the `LEVEL140` folder (replace it if already there is one file with the same name);
+5. Open the file `LEVELS.nfo` located in the CE root folder with a notepad;
+6. Add a new line with this content: `Name:NVL Val:level140` (Make sure to keep a blank line at the end of the file!);
+7. Save the file;
+8. Start the Codename Eagle;
+9. Go to Multiplayer and select the map `NVL`;
+10. Play!
 
 ### Hosting
 
