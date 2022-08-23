@@ -1,6 +1,8 @@
 # No Vinib's Land Map
 This is the repository for the Codename Eagle's No Vinib's Land Map
 
+<img href="https://imgur.com/0ubtt68" alt="Codename Eagle NVL Map">
+
 ## How to Play
 
 ### Requirements
