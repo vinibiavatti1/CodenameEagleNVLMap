@@ -28,3 +28,7 @@ To install the map in your environment, just follow the steps below:
 ### Hosting
 
 To host a server with this map, you have the follow the same steps form the [Installing](#installing) section. The unique thing you have to guarantee is that all of the players did the installation in their environment, with the same folder name (`LEVEL140`), otherwise, they will not be able to play in the server. 
+
+### Found a Bug?
+
+If you found some bug in the map, please, open an issue in the repository's issues tab. I need you help to keep the map stable and playable. Thanks!
