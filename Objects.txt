@@ -1,0 +1,264 @@
+Guns:
+knife..........Knife
+gun............Pistol
+Rifle1.........Rifle
+SnipeGun.......Sniper
+KPist..........Machine Gun
+grenade........Grenade
+Detonat........Detonator
+Bazooka........Bazooka
+GasW...........Gas Weapon
+FlameW.........Flamethrower
+
+Power Ups:
+amoclip........Ammo Clip
+amopack........Ammo Pack
+rockets........Rockets
+GasAmo.........Gas Ammo
+jacket1........Leather Armor
+jacket2........Silver Armor
+hpacksml.......Small Medicine
+hpacklg........Big Medicine
+
+Items:
+parachu........Parachute
+fueltank.......Fuel Tank
+toolbox........Tool Box
+
+Mission Items:
+carkey.........Truck Key
+uniform........Guard Uniform
+wrench.........Fence Wrench
+tbomb..........Bomb
+bottle.........Vodka bottle
+genkey.........Church Key
+chkey..........Alternative Church Key
+idcard.........Guard Identifier Card
+
+Millitary Buildings:
+nbarack........Big Barrack
+barrack........Big Barrack (Snow)
+bunker1........Bunker (Snow)
+bunkerd........Bunker
+wtower.........Watch Tower (Snow)
+wtowerd........Watch Tower
+siren..........Watch Tower Siren
+gtower.........Big Tower
+ladder.........Big Tower Ladder
+slight.........Big Tower Light
+sdark..........Big Tower Light Turned Off
+hangar1........Hangar (Snow)
+nhangar........Hangar
+rocket1........Rocket Launcher
+ghouse.........Guard House
+amobuil........Ammo Building
+
+Palace:
+palace.........Palace
+paldoor........Palace Door
+palpil.........Palace Pillar
+paltron........Palace Throne
+paltwr.........Palace Tower
+
+Prison:
+jail...........Prison Building
+jaildoor.......Prison Door
+
+Farm:
+wmill1.........Wind Mill
+wmill2.........Wind Mill Propeller
+barn...........Barn
+barndr.........Barn Door
+barrel.........Barrel
+
+Piers:
+spier1.........Pier 1
+spier2.........Pier 2
+spier3.........Pier 3
+
+Houses:
+house..........House (Snow)
+house2.........Big House (Snow)
+house3.........House
+house4.........House
+housed1........House
+housed2........Big House
+dhouse.........Stone House (Snow)
+ehouse.........Wood House With Interior
+shouse.........Wood House
+shed...........Shed
+lodhous........Cabin (Snow)
+tent1..........Tent
+edoor..........House Door
+
+Church:
+church.........Church Building
+cross..........Church Cross
+kstair.........Church Tower Stairs
+chlock.........Church Door Locker
+bell...........Church Bell
+rope...........Chruch Bell Rope
+block..........Church Interior Door
+kdoor1.........Church Right Door
+kdoor2.........Church Left Door
+
+Vehicles:
+Tank3..........Firethrower Tank
+helicopter.....Chooper
+tank...........Russian Tank
+tank2..........Allied Tank
+plane..........Russian Plane
+plane3.........Allied Plane
+plane4.........Russian Bomber
+Plane2.........Allied Bomber
+battleshipg....Russian Battleship
+battleshipa....Allied Battleship
+car............Russian Armored Car
+car2...........Allied Armored Car
+Truck..........Truck
+torpboat.......Torpedo Boat
+zeppelin.......Zeppeling
+motorcyc.......Motorcycle (Invisble but works)
+woodboat.......Wood Boat (Invisble but works)
+
+Non-Drivable Vehicles
+torpb..........Scenary Torpedo Boat
+crazepp........Broke Zeppeling
+Merc...........Coronel Car
+MWheel.........Coronel Car Wheel
+wboat..........Scenary Wood Boat
+hf.............Aircraft Carrier
+submari........Submarine
+aship..........Scenary Battle Ship
+zeppe..........Scenary Zeppeling
+
+Static Weapons:
+AAGun3.........Anti-Aircrat Gun
+GGGun..........Mortar Launcher
+
+Poles:
+pole1..........Pole With Light And Wire (Snow)
+pole2..........Pole With Wire (Snow)
+pole3..........Single Pole
+poled..........Pole With Light And Wire
+poledrk1.......Pole With Wire And Turned Off Light (Snow)
+
+Radio:
+palradr........Radio Building
+praddor........Radio Door
+radar..........Radar Grid
+bradar.........Radar Wires
+radionw........Radio Device
+
+Lift:
+radrtwr........Lift Station (Start)
+rdrtwr2........Lift Station (End)
+lift...........Lift
+liftline.......Lift Line
+
+Industrial:
+powstat........Factory Building
+powgen.........Factory Power Generator
+powrgen........Power Generator
+gascist........Gas Silo
+oilcist........Oil Silo
+1ciste.........Biohazard Silo 1
+2ciste.........Biohazard Silo 2
+xlcist.........Biohazard Silo 3
+cargo..........Cargo Box
+pstation.......Power Station
+pipe901........Pipe Corner
+pipeb1.........Big Vertical Pipe
+pipec1.........Small Vertical Pipe
+tube...........Big Gas Tube
+tubeS..........Gas Tube
+
+Boxes:
+box............Wooden Box
+sbox...........Silver Box
+explbox........Explosives Box
+
+Bridges:
+bbridge........Broken Bridge
+bridge.........Small Bridge
+bridger........Raised Small Bridge
+pbridge........Big Wooden Bridge
+rbridge........Big Train Wooden Bridge
+
+Ruins:
+horuid1........House Ruin
+horuin1........House Ruin (Snow)
+horuin4........Alternative House Ruin
+hruin2.........Big House Ruin
+
+Furniture:
+bomb...........Bomb
+ddevice........Device
+artifact.......Alternative Device
+etable.........Big Wooden Table
+fackla.........Torch
+rtable.........Table
+rstol..........Chair
+hylla..........Shelve
+safe...........Safe Box
+safdoor........Safe Box Door
+fishnet........Fish Net
+
+Train Objects:
+train..........Locomotive
+cwagon.........Coal Wagon
+gwagon.........Gas Wagon
+aawagon........Empty Wagon
+tstation.......Train Station
+trainl.........People Wagon
+trainw.........Alternative People Wagon
+
+Walls:
+nfence.........Fence
+nfence5........Fence Group
+fence..........Eletric Fence
+fence5.........Eletric Fence Group
+fencec.........Broken Fence
+pFence.........Wooden Fence
+cwall1.........Wall
+cwalla1........Wall With Left Filled
+cwallb1........Wall With Right Filled
+cwall90........Wall Corner
+cwall92........Alternative Wall Corner
+swall..........Stone Wall
+wall...........Stone Wall (Snow)
+gate...........Closed Gate
+sgate..........Gate Opened Door
+sgatepl........Gate Support
+sb.............Barricade
+
+Road Objects:
+guardh.........Guard Cabin (Snow)
+sguardh........Guard Cabin
+bar............Road Bar (Snow)
+drybar.........Road Bar
+ramp...........Ramp
+sign...........Danger Sign
+rblock1........Road Blocker
+
+Nature:
+tree...........Small Tree
+tree1..........Big Tree
+tree2..........Medium Tree
+dtree1.........Dry Tree
+dtreeb1........Dry Tree 2
+dtreec1........Dry Tree 3
+tbranch........Dry Tree Branch
+pnegren........Pine
+pines1.........Pine (Snow)
+stone..........Stone
+bstonea........Stone 2
+bstoneb........Stone 3
+newstone.......Stone 4
+watfall........Waterfall
+
+Teams:
+teamapos.......Blue Team Respawn
+teambpos.......Red Team Respawn
+flagbasea......Blue Team Flag
+flagbaseb......Red Team Flag
