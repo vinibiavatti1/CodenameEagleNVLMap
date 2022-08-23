@@ -31,4 +31,4 @@ To host a server with this map, you have the follow the same steps form the [Ins
 
 ### Found a Bug?
 
-If you found some bug in the map, please, open an issue in the repository's issues tab. I need you help to keep the map stable and playable. Thanks!
+If you find some bug in the map, please, open an issue in the repository's issues tab. I need you help to keep the map stable and playable. Thanks!
