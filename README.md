@@ -45,7 +45,7 @@ The map has some goals, to give you an additional experience. Try to solve them 
 
 ### Tab-Map
 
-![No Vinib's Land Tab Map](https://i.imgur.com/n8T1l3s.jpg)
+![No Vinib's Land Tab Map](https://i.imgur.com/Pb0kS1H.jpg)
 
 ### Found a Bug?
 
