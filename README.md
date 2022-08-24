@@ -43,6 +43,10 @@ The map has some goals, to give you an additional experience. Try to solve them 
 - Goal 8. `EASY` Visit the shipwreck
 - Goal 9. `EASY` Visit the credits
 
+### Tab-Map
+
+![No Vinib's Land Tab Map](https://i.imgur.com/n8T1l3s.jpg)
+
 ### Found a Bug?
 
 If you find some bug in the map, please, open an issue in the repository's issues tab. Your help will be awesome to keep the map stable and playable. Thanks!
