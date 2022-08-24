@@ -33,15 +33,15 @@ To host a server with this map, you have the follow the same steps form the [Ins
 
 The map has some goals, to give you a additional experience. Try to solve them with your frieds!
 
-- Goal 1. [HARD] Find the 13 hidden blue antidotes
-- Goal 2. [MEDIUM] Find the 5 hidden items (bomb, uniform, wrench, ID card and misterious key)
-- Goal 3. [EASY] Find the big spider (take care!)
-- Goal 4. [SUPER HARD] Find the super secret vodka bottle (Tip: Recommend to find it with more players)
-- Goal 5. [EASY] Visit the aircraft carrier
-- Goal 6. [MEDIUM] Find the 5 bazookas
-- Goal 7. [EASY] Go to the highest peak and visit the cross
-- Goal 8. [EASY] Visit the shipwreck
-- Goal 9. [EASY] Visit the credits
+- Goal 1. `HARD` Find the 13 hidden blue antidotes
+- Goal 2. `MEDIUM` Find the 5 hidden items (bomb, uniform, wrench, ID card and misterious key)
+- Goal 3. `EASY` Find the big spider (take care!)
+- Goal 4. `SUPER HARD` Find the super secret vodka bottle (Tip: Recommend to find it with more players)
+- Goal 5. `EASY` Visit the aircraft carrier
+- Goal 6. `MEDIUM` Find the 5 bazookas
+- Goal 7. `EASY` Go to the highest peak and visit the cross
+- Goal 8. `EASY` Visit the shipwreck
+- Goal 9. `EASY` Visit the credits
 
 ### Found a Bug?
 
