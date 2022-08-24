@@ -45,7 +45,7 @@ The map has some goals, to give you an additional experience. Try to solve them 
 
 ### Found a Bug?
 
-If you find some bug in the map, please, open an issue in the repository's issues tab. I need you help to keep the map stable and playable. Thanks!
+If you find some bug in the map, please, open an issue in the repository's issues tab. Your help will be awesome to keep the map stable and playable. Thanks!
 
 ### Community
 
