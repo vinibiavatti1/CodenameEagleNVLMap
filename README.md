@@ -29,7 +29,7 @@ To install the map in your environment, just follow the steps below:
 
 To host a server with this map, you have the follow the same steps form the [Installing](#installing) section. The unique thing you have to guarantee is that all of the players did the installation in their environment, with the same folder name (`LEVEL140`), otherwise, they will not be able to play in the server. 
 
-## Map Goals
+### Map Goals
 
 The map has some goals, to give you an additional experience. Try to solve them with your frieds, and become a true RED spy!
 
