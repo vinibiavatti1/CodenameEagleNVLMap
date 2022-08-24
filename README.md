@@ -1,7 +1,7 @@
 # No Vinib's Land Map
 This is the repository for the Codename Eagle's No Vinib's Land Map
 
-![Codename Eagle NVL Map](https://i.imgur.com/0ubtt68.png)
+![Codename Eagle NVL Map](https://i.imgur.com/tU6lM8B.png)
 
 ## How to Play
 
@@ -46,3 +46,12 @@ The map has some goals, to give you an additional experience. Try to solve them 
 ### Found a Bug?
 
 If you find some bug in the map, please, open an issue in the repository's issues tab. I need you help to keep the map stable and playable. Thanks!
+
+### Community
+
+Join us in our CE community, and lets enjoy CE together!
+
+- Discord Community: https://discord.gg/gGaMUJA9st
+- Reddit Community: https://www.reddit.com/r/CodenameEagle/
+- Server Website: https://www.codenameeaglemultiplayer.com/
+- CE Nation: http://codenameeagle.net/
