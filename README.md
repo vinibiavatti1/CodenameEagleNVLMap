@@ -31,7 +31,7 @@ To host a server with this map, you have the follow the same steps form the [Ins
 
 ## Map Goals
 
-The map has some goals, to give you a additional experience. Try to solve them with your frieds!
+The map has some goals, to give you an additional experience. Try to solve them with your frieds, and become a true RED spy!
 
 - Goal 1. `HARD` Find the 13 hidden blue antidotes
 - Goal 2. `MEDIUM` Find the 5 hidden items (bomb, uniform, wrench, ID card and misterious key)
