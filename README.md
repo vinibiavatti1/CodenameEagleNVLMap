@@ -7,7 +7,7 @@ This is the repository for the Codename Eagle's No Vinib's Land Map
 
 ### Requirements
 
-- Codename Eagle Game OR Codename Eagle Multiplayer Demo
+- Codename Eagle Full Version OR Codename Eagle Multiplayer Demo
 - Patch 1.43 (Dafoosa's Patch)
 
 ### Installing
