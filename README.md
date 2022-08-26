@@ -33,7 +33,7 @@ To host a server with this map, you have the follow the same steps form the [Ins
 
 The map has some goals, to give you an additional experience. Try to solve them with your frieds, and become a true RED spy!
 
-- Goal 1. `HARD` Find the 14 hidden blue antidotes
+- Goal 1. `HARD` Find the 16 hidden blue antidotes
 - Goal 2. `MEDIUM` Find the 5 hidden items (bomb, uniform, wrench, ID card and misterious key)
 - Goal 3. `EASY` Find the big spider (take care!)
 - Goal 4. `EASY` Visit the thieves village
