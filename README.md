@@ -53,6 +53,18 @@ The map has some goals, to give you an additional experience. Try to solve them 
 
 If you find some bug in the map, please, open an issue in the repository's issues tab. Your help will be awesome to keep the map stable and playable. Thanks!
 
+### Contributing
+
+If you want to contribute for this project, or you want to use the map as base for your project, check the steps bellow to know how to edit the map on CE. I recommend the usage of [Cehub](https://github.com/vinibiavatti1/CEHub) to edit the map, since it already has the support to start editing it easily.
+
+1. Open [Cehub](https://github.com/vinibiavatti1/CEHub) >= v1.2.0;
+2. Create a new instance of type `Map Editor`;
+3. After setup the instance, open the instance folder and open `/level128` folder;
+4. Replace the file `World.dat` by the same file from this repository;
+5. Run the instance from Cehub and start editing!
+
+If you want to collaborate for the project, please, fork the project and open pull requests in this repository. These pull requests will be evaluated by the community to check if the new features satisfying the players.
+
 ### Community
 
 Join us in our CE community, and lets enjoy CE together!
