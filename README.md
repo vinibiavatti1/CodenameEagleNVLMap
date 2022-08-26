@@ -38,15 +38,16 @@ The map has some goals, to give you an additional experience. Try to solve them 
 - Goal 3. `EASY` Find the big spider (take care!)
 - Goal 4. `EASY` Visit the thieves village
 - Goal 5. `EASY` Visit the aircraft carrier
-- Goal 6. `MEDIUM` Find the 5 bazookas
+- Goal 6. `MEDIUM` Find the 6 bazookas
 - Goal 7. `EASY` Go to the highest peak and visit the cross
 - Goal 8. `EASY` Visit the shipwreck
 - Goal 9. `EASY` Visit the credits
 - Goal 10. `SUPER HARD` Find the super secret vodka bottle (Tip: Recommend to find it with more players)
+- Goal 11. `EASY` Visit the Submarine
 
 ### Tab-Map
 
-![No Vinib's Land Tab Map](https://i.imgur.com/Pb0kS1H.jpg)
+![No Vinib's Land Tab Map](https://i.imgur.com/brANfZb.jpg)
 
 ### Found a Bug?
 
