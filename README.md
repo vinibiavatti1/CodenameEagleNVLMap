@@ -15,7 +15,7 @@ This is the repository for the Codename Eagle's No Vinib's Land Map
 To install the map in your environment, just follow the steps below:
 
 1. Make a backup of your CE root directory;
-2. Extract the folder `LEVEL140` from the repository zip file `Level140_NVL.zip`;
+2. Extract the folder `Level140` from the repository zip file `Level140_NVL.zip`;
 3. Add the extracted folder to the CE's root directory;
 4. Open the file `LEVELS.nfo` located in the CE root folder with a notepad;
 5. Add a new line with this content: `Name:NVL Val:140` (Make sure to keep a blank line at the end of the file!);
