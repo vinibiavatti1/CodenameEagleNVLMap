@@ -3,12 +3,10 @@ This is the repository for the Codename Eagle's No Vinib's Land Map
 
 ![Codename Eagle NVL Map](https://i.imgur.com/tU6lM8B.png)
 
-## How to Play
-
 ### Requirements
 
-- Codename Eagle Full Version OR Codename Eagle Multiplayer Demo
-- Patch 1.43 (Dafoosa's Patch)
+- Installation of [CEHub](https://github.com/vinibiavatti1/CEHub);
+- Instance with **Codename Eagle Myg's Version**;
 
 ### Installing
 
