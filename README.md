@@ -5,8 +5,8 @@ This is the repository for the Codename Eagle's No Vinib's Land Map
 
 ### Requirements
 
-- Installation of [CEHub](https://github.com/vinibiavatti1/CEHub);
-- Instance with **Codename Eagle Myg's Version**;
+- Installation of [CEHub](https://github.com/vinibiavatti1/CEHub) or [CEClient](https://github.com/vinibiavatti1/CEClient);
+- Instance with **Codename Eagle Myg's Version** (If you have CEClient, you can skip it);
 
 ### Installing
 
