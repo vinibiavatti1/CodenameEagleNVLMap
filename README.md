@@ -42,10 +42,6 @@ The map has some goals, to give you an additional experience. Try to solve them 
 - Goal 10. `SUPER HARD` Find the super secret vodka bottle (Tip: Recommend to find it with more players)
 - Goal 11. `EASY` Visit the Submarine
 
-### Tab-Map
-
-![No Vinib's Land Tab Map](https://i.imgur.com/cgXXWnb.jpg)
-
 ### Found a Bug?
 
 If you find some bug in the map, please, open an issue in the repository's issues tab. Your help will be awesome to keep the map stable and playable. Thanks!
@@ -70,3 +66,27 @@ Join us in our CE community, and lets enjoy CE together!
 - Reddit Community: https://www.reddit.com/r/CodenameEagle/
 - Server Website: https://www.codenameeaglemultiplayer.com/
 - CE Nation: http://codenameeagle.net/
+
+### Spoilers
+
+<img src="https://i.imgur.com/Vzs6BDr.png" alt="NVL Spoiler 1" width="800"/>
+
+<img src="https://i.imgur.com/Or82YwJ.png" alt="NVL Spoiler 2" width="800" />
+
+<img src="https://i.imgur.com/icj8EAT.png" alt="NVL Spoiler 3" width="800" />
+
+<img src="https://i.imgur.com/arN4rIR.png" alt="NVL Spoiler 4" width="800" />
+
+<img src="https://i.imgur.com/Dtgakxx.png" alt="NVL Spoiler 5" width="800" />
+
+<img src="https://i.imgur.com/1I8EvkG.png" alt="NVL Spoiler 6" width="800" />
+
+<img src="https://i.imgur.com/Aas9JOc.png" alt="NVL Spoiler 7" width="800" />
+
+<img src="https://i.imgur.com/5az4YTt.png" alt="NVL Spoiler 8" width="800" />
+
+<img src="https://i.imgur.com/PdJ2SB7.png" alt="NVL Spoiler 9" width="800" />
+
+### Tab-Map
+
+![No Vinib's Land Tab Map](https://i.imgur.com/cgXXWnb.jpg)
