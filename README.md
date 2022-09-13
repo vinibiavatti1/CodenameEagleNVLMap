@@ -13,6 +13,7 @@ This is the repository for the Codename Eagle's No Vinib's Land Map
 
 To install the map in your environment, just follow the steps below:
 
+1. Download the latest version of NVL map: 
 1. Extract the folder `Level140` from the repository zip file `Level140_NVL.zip`;
 2. Add the extracted folder `Level140` to the CE's root directory;
 3. Open the map manager and add a new record there with name: `NVL` and value: `140`;
